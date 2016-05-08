@@ -2,7 +2,7 @@ for Y in {2016..2016}
 do
   mkdir $Y
   cd $Y
-  for M in {05..5}
+  for M in {05..05}
   do
     mkdir $M
     cd $M
