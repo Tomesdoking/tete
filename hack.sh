@@ -2,11 +2,11 @@ for Y in {2016..2016}
 do
   mkdir $Y
   cd $Y
-  for M in {06..06}
+  for M in {05..05}
   do
     mkdir $M
     cd $M
-    for D in {12..19}
+    for D in {14..24}
     do
       mkdir $D
       cd $D
