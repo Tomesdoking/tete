@@ -1,4 +1,4 @@
-for Y in {2017..2017}
+for Y in {2018..2018}
 do
   mkdir $Y
   cd $Y
@@ -6,7 +6,7 @@ do
   do
     mkdir $M
     cd $M
-    for D in {4..28}
+    for D in {7..25}
     do
       mkdir $D
       cd $D
