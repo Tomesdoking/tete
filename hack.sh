@@ -1,12 +1,12 @@
-for Y in {2018..2018}
+for Y in {2019..2019}
 do
   mkdir $Y
   cd $Y
-  for M in {01..12}
+  for M in {01..10}
   do
     mkdir $M
     cd $M
-    for D in {7..25}
+    for D in {3..28}
     do
       mkdir $D
       cd $D
